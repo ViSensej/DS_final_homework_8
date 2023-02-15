@@ -3,22 +3,22 @@
 
 ## Оглавление
 
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
-[3. Краткая информация о данных]()
+[3. Краткая информация о данных](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
-[5. Результат]()
+[5. Результат](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
-[6. Вводы]()
+[6. Вводы](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
 ### Описание проекта
 Угадать загаданное компьютером число менее, чем за 20 попыток.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/ViSensej/DS_final_homework_8/blob/main/README8.md)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая загадывает случайное число и угадывает его менее, чем за 20 попыток.
